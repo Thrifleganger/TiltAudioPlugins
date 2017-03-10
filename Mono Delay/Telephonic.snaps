@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Mono_Repeater delayTimeNumBox="498" bpmNumBox="0" delayTimeSync="5" delayTimeManual="498"
+               Feedback="0.6840000152587890625" LowpassFrequency="2996" HighpassFrequency="614"
+               tempoSync="0" hostTempo="1" delayType="1" tapDelay="0" Mix="0.50800001621246337891"
+               bypass="1" Input="0" Output="0" combobox="4"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ParametricEQ LowFrequency="302.600006103515625" LowQ="4.4100003242492675781"
+              LowGain="-6.5599994659423828125" MidFrequency="2500" MidQ="1"
+              MidGain="-3.8399991989135742188" HighFrequency="9648" HighQ="2.5450000762939453125"
+              HighGain="-6.0799994468688964844" combobox="1" bypass="1" LowShelfGain="0.16000095009803771973"
+              HighShelfGain="-14.880000114440917969" LowShelfFrequency="305"
+              LowCutOff="144" HighShelfFrequency="7544.00048828125" hcoFreq="10879.9990234375"
+              toneButton="0"/>
